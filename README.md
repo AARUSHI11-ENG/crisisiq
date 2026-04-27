@@ -1,16 +1,67 @@
-# React + Vite
+# 🚨 CrisisIQ – AI-Powered Crisis Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+CrisisIQ is an intelligent platform designed to detect, analyze, and respond to crisis situations in real-time. It helps authorities and organizations make faster, data-driven decisions during emergencies.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Problem Statement
+During crises (natural disasters, emergencies, etc.), response systems are often:
+- Slow
+- Uncoordinated
+- Lacking real-time insights
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💡 Solution
+CrisisIQ provides:
+- Real-time crisis monitoring
+- AI-based analysis
+- Smart alerts and response suggestions
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- 🔍 Real-time data monitoring
+- 🤖 AI-based decision support
+- 📊 Dashboard for visualization
+- 🚨 Alert system
+- 📍 Location-based tracking
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: (Add yours: Node.js / Python / etc.)
+- Database: (MySQL / MongoDB)
+- Tools: Git, VS Code
+
+---
+
+## 🧪 MVP (Minimum Viable Product)
+👉 Basic version includes:
+- Data input
+- Simple alert system
+- Basic dashboard
+
+---
+## 📂 Project Structure
+
+crisisiq/
+│── src/
+│── public/
+│── assets/
+│── README.md
+│── .gitignore
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/AARUSHI11-ENG/crisisiq.git
+cd crisisiq
+npm install
+npm start
+
+
+---
+
+## 📂 Project Structure
